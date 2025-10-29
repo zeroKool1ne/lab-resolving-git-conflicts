@@ -1,19 +1,20 @@
+Below is a template you can use to introduce yourself:
 
-# Who am I
+    ```
+    # Who am I
 
-* I am a Martian.   
-* I came to earth to learn what is your weaknesses.
-* I love eating rats.
+    * Where are you from?
+    * What do you do?
+    * Do you have previous experience with technology/data?
 
-# Why am I here
+    # Why am I here
 
-* That is a very philosophical questions and at this point I am to tired to answer it.
-* Blalalalalalalalalalala.
+    * What has brought you to Ironhack?
+    * What knowledge/skills do you expect to learn in this course?
 
-# What will I do after the course?
+    # What will I do after the course?
 
-* Show Elon the way to Mars.
-
-#Some new shit so I can create conflicts balalalalalalalalalalala
-*ladi dadi we like to party
-*Rio stinkt
+    * Which industry will you seek employment in?
+    * What will your future role look like?
+    * What is your career goal?
+    ```
