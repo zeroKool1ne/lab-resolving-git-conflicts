@@ -13,3 +13,7 @@
 # What will I do after the course?
 
 * Show Elon the way to Mars.
+
+#Some new shit so I can create conflicts balalalalalalalalalalala
+*ladi dadi we like to party
+*Rio stinkt
