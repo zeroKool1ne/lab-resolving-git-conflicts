@@ -1,17 +1,15 @@
 
 # Who am I
 
-* I was born in Venezuela but moved to Algarve when I was 13.
-* I have a PhD in Neuroscience but have no intention of staying in academia.
-* I have some experience analyzing data from my own experiments but no formal training whatsoever.
+* I am a Martian.   
+* I came to earth to learn what is your weaknesses.
+* I love eating rats.
 
 # Why am I here
 
-* I came to Ironhack to learn, meet new people and to open new opportunities.
-* Proper coding, machine learning, stats!
+* That is a very philosophical questions and at this point I am to tired to answer it.
+* Blalalalalalalalalalala.
 
 # What will I do after the course?
 
-* Would love to get into the sports industry.
-* I will look for patterns in data where people are not even looking.
-* To enjoy myself.
+* Show Elon the way to Mars.
